@@ -1,0 +1,32 @@
+*{
+    background-color:  ;
+    padding: 0 auto;
+}
+
+header{
+    background-color: rgba(246, 193, 101, 0.989);
+
+}
+img{
+    width: 170px;
+    padding: 0 auto;
+    border-radius: 300px;
+    border-style: solid;
+    border-color: aqua;
+
+}
+nav{
+    
+    background-color: rgba(94, 84, 84, 0.808);
+    position: relative;
+    border-style: solid;
+    border-color: rgba(210, 105, 30, 0.805);
+    border-radius:  20px;
+    position: relative;
+    right:30px; left:30px;
+    width: 40%;
+}
+p{
+    text-align: justify;
+    
+}
